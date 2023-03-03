@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Implement DevOps Processes"
 
 Description: [A brief description of the initiative]
 

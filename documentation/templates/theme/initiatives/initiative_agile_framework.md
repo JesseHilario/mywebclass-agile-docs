@@ -20,10 +20,8 @@ Risks: [List the potential risks and mitigation strategies]
 
 Dependencies: [List any dependencies that may impact the initiative]
 
-Team: [Identify the team members and their roles in the initiative]
+Team: Project manager, all team members
 
-## Test plan
-How will this be tested?
 
 # List epics related to this theme
 1. [Create a Project Management Tool](epics/epic_create_project_management_tool.md)
