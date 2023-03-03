@@ -10,7 +10,3 @@ business requirements, setting us up for long-term success.
 2. [Implement DevOps Processes](documentation/templates/theme/initiatives/initiative_devops_processes.md)
 3. [Develop a Base Website Template with All Necessary Technical and Legal Requirements](documentation/templates/theme/initiatives/initiative_legal_technical_website_template.md)
 4. [Implement Basic On-Page SEO Best Practices](documentation/templates/theme/initiatives/initiative_best_seo_practices.md)
-
-
-## Test plan
-How will this be tested?
