@@ -1,4 +1,4 @@
-Task Title: Choose a CD tool and configure it to automatically deploy code changes to staging and production environments.
+ Task Title: Choose a CD tool and configure it to automatically deploy code changes to staging and production environments.
 
 User Story: [Story 2.1.2](../../stories/story_2.1.2.md)
 

@@ -1,4 +1,4 @@
-"As a software developer, I want to use a Continuous Delivery (CD) process to automatically deploy code changes to 
+ "As a software developer, I want to use a Continuous Delivery (CD) process to automatically deploy code changes to 
 staging and production environments so that I can deliver features to users quickly."
 
 Acceptance Criteria:

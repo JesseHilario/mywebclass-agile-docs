@@ -1,4 +1,4 @@
-Task Title: 5.	Debug and fix any issues identified by the CI process in a timely manner.
+ Task Title: 5.	Debug and fix any issues identified by the CI process in a timely manner.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

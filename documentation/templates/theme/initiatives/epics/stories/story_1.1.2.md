@@ -1,4 +1,4 @@
-As a team member, I want to be able to access project documents and collaborate with other team members so that we can 
+ As a team member, I want to be able to access project documents and collaborate with other team members so that we can 
 work together effectively.
 
 Acceptance Criteria:

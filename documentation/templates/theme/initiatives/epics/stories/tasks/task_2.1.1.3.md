@@ -1,4 +1,4 @@
-Task Title: 3.	Ensure that the CI process runs automatically whenever code changes are committed to the repository.
+ Task Title: 3.	Ensure that the CI process runs automatically whenever code changes are committed to the repository.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

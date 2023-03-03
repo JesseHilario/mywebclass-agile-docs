@@ -1,4 +1,4 @@
-Task Title: Regularly review the progress of each task and adjust priorities as needed.
+ Task Title: Regularly review the progress of each task and adjust priorities as needed.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

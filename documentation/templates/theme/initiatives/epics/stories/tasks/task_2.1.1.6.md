@@ -1,4 +1,4 @@
-Task Title: 6.	Establish a code review process to ensure that changes are thoroughly reviewed and tested before they are merged into the main codebase.
+ Task Title: 6.	Establish a code review process to ensure that changes are thoroughly reviewed and tested before they are merged into the main codebase.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

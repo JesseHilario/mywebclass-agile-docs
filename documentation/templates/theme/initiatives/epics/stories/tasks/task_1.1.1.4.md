@@ -1,4 +1,4 @@
-Task Title: Set due dates for each task and prioritize them based on their importance and dependencies.
+ Task Title: Set due dates for each task and prioritize them based on their importance and dependencies.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

@@ -1,4 +1,4 @@
-Task Title: Establish a central repository for project documents and ensure it is accessible to all team members.
+ Task Title: Establish a central repository for project documents and ensure it is accessible to all team members.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

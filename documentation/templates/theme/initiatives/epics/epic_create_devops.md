@@ -4,7 +4,7 @@ Description: [A brief description of the epic]
 
 Goals: [List the high-level goals or objectives of the epic]
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: see below;
 
 Dependencies: [List any dependencies that may impact the epic]
 

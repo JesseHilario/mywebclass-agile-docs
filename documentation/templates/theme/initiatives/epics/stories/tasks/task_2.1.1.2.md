@@ -1,4 +1,4 @@
-Task Title: 2.	Define a clear set of rules and standards for code quality, including test coverage, code formatting, and documentation.
+ Task Title: 2.	Define a clear set of rules and standards for code quality, including test coverage, code formatting, and documentation.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

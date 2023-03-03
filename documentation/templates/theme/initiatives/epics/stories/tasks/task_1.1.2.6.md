@@ -1,4 +1,4 @@
-Task Title: Ensure that all team members have the necessary access and permissions to the collaboration tool and document repository.
+ Task Title: Ensure that all team members have the necessary access and permissions to the collaboration tool and document repository.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

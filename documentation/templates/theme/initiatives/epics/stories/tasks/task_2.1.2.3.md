@@ -1,4 +1,4 @@
-Task Title: Ensure that the CD process is integrated with the CI process and that code changes are automatically deployed only when they pass all tests.
+ Task Title: Ensure that the CD process is integrated with the CI process and that code changes are automatically deployed only when they pass all tests.
 
 User Story: [Story 2.1.2](../../stories/story_2.1.2.md)
 

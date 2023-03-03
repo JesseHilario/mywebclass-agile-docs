@@ -1,4 +1,4 @@
-Task Title: 7.	Continuously improve the CI process by adding new tests, improving test coverage, and optimizing build times.
+ Task Title: 7.	Continuously improve the CI process by adding new tests, improving test coverage, and optimizing build times.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

@@ -1,4 +1,4 @@
-Task Title: Assign each task to a team member based on their skills and availability.
+ Task Title: Assign each task to a team member based on their skills and availability.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

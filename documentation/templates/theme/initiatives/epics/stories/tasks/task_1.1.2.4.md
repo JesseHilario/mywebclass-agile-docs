@@ -1,4 +1,4 @@
-Task Title: Train team members on how to use the collaboration tool effectively.
+ Task Title: Train team members on how to use the collaboration tool effectively.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

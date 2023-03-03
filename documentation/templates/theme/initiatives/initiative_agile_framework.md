@@ -1,4 +1,4 @@
-"Implement an Agile Project Management Framework"
+ "Implement an Agile Project Management Framework"
 
 Description: [A brief description of the initiative]
 
