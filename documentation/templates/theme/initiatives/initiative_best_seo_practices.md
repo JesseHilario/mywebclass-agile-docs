@@ -23,4 +23,4 @@ Dependencies: [List any dependencies that may impact the initiative]
 Team: team members
 
 # List epics related to this theme
-1. [Epic 1: Verify Website Template Meets Basic On-Page SEO Requirements](epics/epic_basic_seo_requirements.md)
+1. [Epic 1: Verify Website Template Meets Basic On-Page SEO Requirements](documentation/templates/theme/initiatives/epics/epic_basic_seo_requirements.md)
