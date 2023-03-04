@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Develop a Base Website Template with All Necessary Technical and Legal Requirements"
 
 Description: [A brief description of the initiative]
 
