@@ -1,4 +1,4 @@
-Task Title: Communicate the task list and priorities to the team and ensure everyone understands their responsibilities.
+ Task Title: Communicate the task list and priorities to the team and ensure everyone understands their responsibilities.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

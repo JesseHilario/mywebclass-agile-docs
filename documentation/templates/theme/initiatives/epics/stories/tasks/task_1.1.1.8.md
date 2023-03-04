@@ -1,4 +1,4 @@
-Task Title: Celebrate milestones and achievements to keep the team motivated and engaged.
+ Task Title: Celebrate milestones and achievements to keep the team motivated and engaged.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

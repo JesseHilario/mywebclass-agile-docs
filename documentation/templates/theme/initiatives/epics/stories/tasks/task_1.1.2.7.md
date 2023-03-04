@@ -1,4 +1,4 @@
-Task Title: Encourage open communication and constructive feedback to ensure everyone's ideas are heard and valued.
+ Task Title: Encourage open communication and constructive feedback to ensure everyone's ideas are heard and valued.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

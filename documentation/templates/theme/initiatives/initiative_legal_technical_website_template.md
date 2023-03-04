@@ -23,4 +23,5 @@ Dependencies: [List any dependencies that may impact the initiative]
 Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1: Create a Website Template](epics/epic_create_website_template.md)
+2. [Epic 2: Create Legal Compliance Elements for Website](epics/epic_legal_compliance.md)

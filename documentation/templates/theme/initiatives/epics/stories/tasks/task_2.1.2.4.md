@@ -1,5 +1,5 @@
 Task Title: Set up notifications for the team to receive alerts whenever the CD process fails or when new code changes are deployed to production.
-
+ 
 User Story: [Story 2.1.2](../../stories/story_2.1.2.md)
 
 Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]

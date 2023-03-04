@@ -1,4 +1,4 @@
-# Theme 1.0: Product Development
+ # Theme 1.0: Product Development
 ## Overview
 As a contributor to the MyWebClass.org project, I want to set a solid foundation for a high-quality, functional website. 
 By implementing an Agile project management framework and DevOps processes, the team can efficiently develop the website 

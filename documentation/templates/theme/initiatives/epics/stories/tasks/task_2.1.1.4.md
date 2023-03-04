@@ -1,4 +1,4 @@
-Task Title: 4.	Set up notifications for the team to receive alerts whenever the CI process fails.
+ Task Title: 4.	Set up notifications for the team to receive alerts whenever the CI process fails.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

@@ -1,4 +1,4 @@
-Task Title: Break down each deliverable into smaller, manageable tasks.
+ Task Title: Break down each deliverable into smaller, manageable tasks.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

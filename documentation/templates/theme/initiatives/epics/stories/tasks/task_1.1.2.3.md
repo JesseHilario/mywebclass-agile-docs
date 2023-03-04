@@ -1,4 +1,4 @@
-Task Title: Implement a collaboration tool (e.g., chat, video conferencing, project management software) that allows team members to communicate and collaborate effectively.
+ Task Title: Implement a collaboration tool (e.g., chat, video conferencing, project management software) that allows team members to communicate and collaborate effectively.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

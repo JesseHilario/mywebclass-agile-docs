@@ -1,4 +1,4 @@
-"As a software developer, I want to use a Continuous Integration (CI) process to automatically build and test code 
+ "As a software developer, I want to use a Continuous Integration (CI) process to automatically build and test code 
 changes so that I can quickly identify and resolve issues."
 
 Acceptance Criteria:

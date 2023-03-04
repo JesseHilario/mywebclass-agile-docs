@@ -1,4 +1,4 @@
-Task Title: Address any issues or roadblocks that may arise and take corrective action to keep the project on track.
+ Task Title: Address any issues or roadblocks that may arise and take corrective action to keep the project on track.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

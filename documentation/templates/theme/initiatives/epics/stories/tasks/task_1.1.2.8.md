@@ -1,4 +1,4 @@
-Task Title: Foster a collaborative and supportive team culture that encourages innovation and creativity.
+ Task Title: Foster a collaborative and supportive team culture that encourages innovation and creativity.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

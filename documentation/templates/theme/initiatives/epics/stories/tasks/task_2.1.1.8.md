@@ -1,4 +1,4 @@
-Task Title: 8.	Ensure that the CI process is well-documented and that all team members are trained on how to use it effectively.
+ Task Title: 8.	Ensure that the CI process is well-documented and that all team members are trained on how to use it effectively.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

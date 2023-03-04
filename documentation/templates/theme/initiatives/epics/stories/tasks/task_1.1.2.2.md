@@ -1,4 +1,4 @@
-Task Title: Ensure the document repository is organized in a logical and intuitive way so team members can find the documents they need quickly and easily.
+ Task Title: Ensure the document repository is organized in a logical and intuitive way so team members can find the documents they need quickly and easily.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

@@ -20,7 +20,7 @@ Risks: [List the potential risks and mitigation strategies]
 
 Dependencies: [List any dependencies that may impact the initiative]
 
-Team: [Identify the team members and their roles in the initiative]
+Team: Project manager; all team members
 
 # List epics related to this theme
 1. [Epic 1: Create a DevOps Process](epics/epic_create_devops.md)

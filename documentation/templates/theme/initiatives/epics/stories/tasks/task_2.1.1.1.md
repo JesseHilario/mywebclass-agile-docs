@@ -1,4 +1,4 @@
-Task Title: 1.	Choose a CI tool and configure it to automatically build and test code changes.
+ Task Title: 1.	Choose a CI tool and configure it to automatically build and test code changes.
 
 User Story: [Story 2.1.1](../../stories/story_2.1.1.md)
 

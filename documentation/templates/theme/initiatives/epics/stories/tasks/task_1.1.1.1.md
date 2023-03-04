@@ -1,4 +1,4 @@
-Task Title: Identify the key project milestones and deliverables.
+ Task Title: Identify the key project milestones and deliverables.
 
 User Story: [Story 1.1.1](../../stories/story_1.1.1.md)
 

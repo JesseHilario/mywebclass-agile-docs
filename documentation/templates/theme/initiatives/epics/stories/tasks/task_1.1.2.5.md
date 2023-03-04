@@ -1,4 +1,4 @@
-Task Title: Set up regular check-ins to discuss progress, resolve issues, and share updates.
+ Task Title: Set up regular check-ins to discuss progress, resolve issues, and share updates.
 
 User Story: [Story 1.1.2](../../stories/story_1.1.2.md)
 

@@ -1,4 +1,4 @@
-As a project manager, I want to use a task list with due dates and priorities to ensure that the team is working efficiently and meeting deadlines.
+ As a project manager, I want to use a task list with due dates and priorities to ensure that the team is working efficiently and meeting deadlines.
 
 Acceptance Criteria:
 

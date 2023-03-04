@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Implement Basic On-Page SEO Practices"
 
 Description: [A brief description of the initiative]
 
@@ -20,7 +20,7 @@ Risks: [List the potential risks and mitigation strategies]
 
 Dependencies: [List any dependencies that may impact the initiative]
 
-Team: [Identify the team members and their roles in the initiative]
+Team: team members
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1: Verify Website Template Meets Basic On-Page SEO Requirements](epics/epic_basic_seo_requirements.md)
