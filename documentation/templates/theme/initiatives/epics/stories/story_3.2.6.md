@@ -3,11 +3,11 @@ tracking technologies and obtain my consent for their use."
 
 Acceptance Criteria:
 
-The cookie policy document should be easily accessible on the website and clearly explain how cookies or other tracking technologies are used, what types of data are collected, and the purposes for which it is used.
-The cookie policy should provide clear and understandable instructions on how users can control or manage cookies.
-The website should implement a cookie consent banner or pop-up that appears until the user gives their consent.
-The cookie consent banner or pop-up should provide clear and understandable information on what cookies are used for and how to control or manage them.
-The website should not use cookies or tracking technologies until the user has given their consent.
+* The cookie policy document should be easily accessible on the website and clearly explain how cookies or other tracking technologies are used, what types of data are collected, and the purposes for which it is used.
+* The cookie policy should provide clear and understandable instructions on how users can control or manage cookies.
+* The website should implement a cookie consent banner or pop-up that appears until the user gives their consent.
+* The cookie consent banner or pop-up should provide clear and understandable information on what cookies are used for and how to control or manage them.
+* The website should not use cookies or tracking technologies until the user has given their consent.
 
 
 # Tasks related to this story

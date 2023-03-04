@@ -3,15 +3,15 @@ work together effectively.
 
 Acceptance Criteria:
 
-The document repository should be well-organized and easy to navigate.
-All project documents should be stored in the repository and be up-to-date.
-The collaboration tool should allow team members to communicate effectively and share updates.
-Team members should be able to access the collaboration tool and document repository from any location.
-The team should be able to work collaboratively on documents and tasks using the collaboration tool.
-The collaboration tool should allow team members to track progress and ensure that tasks are completed on time.
-The team should be able to resolve issues and make decisions quickly using the collaboration tool.
-The team should be able to work effectively together, despite any geographical or time-zone differences.
-The project should be completed successfully and meet all project requirements.
+* The document repository should be well-organized and easy to navigate.
+* All project documents should be stored in the repository and be up-to-date.
+* The collaboration tool should allow team members to communicate effectively and share updates.
+* Team members should be able to access the collaboration tool and document repository from any location.
+* The team should be able to work collaboratively on documents and tasks using the collaboration tool.
+* The collaboration tool should allow team members to track progress and ensure that tasks are completed on time.
+* The team should be able to resolve issues and make decisions quickly using the collaboration tool.
+* The team should be able to work effectively together, despite any geographical or time-zone differences.
+* The project should be completed successfully and meet all project requirements.
 
 
 # Tasks related to this story

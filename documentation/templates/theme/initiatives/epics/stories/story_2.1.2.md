@@ -3,14 +3,14 @@ staging and production environments so that I can deliver features to users quic
 
 Acceptance Criteria:
 
-The CD process should be set up to automatically deploy code changes to staging and production environments.
-The CD process should be integrated with the development workflow and should not require manual intervention from developers.
-The CD process should include a comprehensive set of automated tests that cover all critical aspects of the codebase and ensure that the code changes are ready for deployment.
-The CD process should have clear deployment policies and procedures in place, including rollback plans in case of errors or issues.
-The CD process should provide clear and actionable feedback to developers on how to resolve deployment issues and improve the deployment process.
-The CD process should be well-documented and easily accessible to all developers.
-The CD process should be regularly reviewed and updated to ensure that it is meeting the needs of the development team.
-The CD process should help to improve the speed and reliability of feature delivery to users while minimizing the risk of errors and downtime.
+* The CD process should be set up to automatically deploy code changes to staging and production environments.
+* The CD process should be integrated with the development workflow and should not require manual intervention from developers.
+* The CD process should include a comprehensive set of automated tests that cover all critical aspects of the codebase and ensure that the code changes are ready for deployment.
+* The CD process should have clear deployment policies and procedures in place, including rollback plans in case of errors or issues.
+* The CD process should provide clear and actionable feedback to developers on how to resolve deployment issues and improve the deployment process.
+* The CD process should be well-documented and easily accessible to all developers.
+* The CD process should be regularly reviewed and updated to ensure that it is meeting the needs of the development team.
+* The CD process should help to improve the speed and reliability of feature delivery to users while minimizing the risk of errors and downtime.
 
 
 # Tasks related to this user story

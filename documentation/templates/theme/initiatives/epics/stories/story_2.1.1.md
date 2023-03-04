@@ -3,14 +3,14 @@ changes so that I can quickly identify and resolve issues."
 
 Acceptance Criteria:
 
-The CI process should be set up to run automatically whenever code changes are committed to the repository.
-The CI process should be integrated with the development workflow and should not require manual intervention from developers.
-The CI process should include a comprehensive set of automated tests that cover all critical aspects of the codebase.
-The CI process should be able to detect and report any errors or issues with the code changes, including issues related to test failures, code quality, and compliance with coding standards.
-The CI process should provide clear and actionable feedback to developers on how to resolve issues and improve code quality.
-The CI process should be well-documented and easily accessible to all developers.
-The CI process should be regularly reviewed and updated to ensure that it is meeting the needs of the development team.
-The CI process should help to improve code quality and reduce the risk of errors and issues in production.
+* The CI process should be set up to run automatically whenever code changes are committed to the repository.
+* The CI process should be integrated with the development workflow and should not require manual intervention from developers.
+* The CI process should include a comprehensive set of automated tests that cover all critical aspects of the codebase.
+* The CI process should be able to detect and report any errors or issues with the code changes, including issues related to test failures, code quality, and compliance with coding standards.
+* The CI process should provide clear and actionable feedback to developers on how to resolve issues and improve code quality.
+* The CI process should be well-documented and easily accessible to all developers.
+* The CI process should be regularly reviewed and updated to ensure that it is meeting the needs of the development team.
+* The CI process should help to improve code quality and reduce the risk of errors and issues in production.
 
 
 # Tasks related to this user story

@@ -3,13 +3,13 @@ user behavior on my website."
 
 Acceptance Criteria:
 
-The website template must be compatible with Google Analytics and allow the tracking code to be easily added.
-The Google Analytics tracking code must be properly installed and configured to track key website metrics and user actions.
-Custom goals and events must be set up in Google Analytics to track specific user actions on the website.
-The Google Analytics tracking must be tested and verified to be functioning properly and accurately tracking user behavior.
-Regular reports and alerts must be set up in Google Analytics to monitor website performance and identify areas for improvement.
-The insights provided by Google Analytics must be used to optimize website content, design, and user experience.
-The Google Analytics configuration and tracking code must be reviewed and updated on a regular basis to ensure ongoing accuracy and effectiveness.
+* The website template must be compatible with Google Analytics and allow the tracking code to be easily added.
+* The Google Analytics tracking code must be properly installed and configured to track key website metrics and user actions.
+* Custom goals and events must be set up in Google Analytics to track specific user actions on the website.
+* The Google Analytics tracking must be tested and verified to be functioning properly and accurately tracking user behavior.
+* Regular reports and alerts must be set up in Google Analytics to monitor website performance and identify areas for improvement.
+* The insights provided by Google Analytics must be used to optimize website content, design, and user experience.
+* The Google Analytics configuration and tracking code must be reviewed and updated on a regular basis to ensure ongoing accuracy and effectiveness.
 
 
 # Tasks related to this story

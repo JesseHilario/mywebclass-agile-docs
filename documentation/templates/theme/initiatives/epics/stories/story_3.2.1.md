@@ -3,10 +3,10 @@ used and protected."
 
 Acceptance Criteria:
 
-The website must have a clearly visible link to the privacy policy on all pages.
-The privacy policy must be written in clear and easy-to-understand language.
-The privacy policy must describe what personal information is collected and how it is used and protected.
-The privacy policy must explain how users can opt-out of certain data collection or processing activities.
+* The website must have a clearly visible link to the privacy policy on all pages.
+* The privacy policy must be written in clear and easy-to-understand language.
+* The privacy policy must describe what personal information is collected and how it is used and protected.
+* The privacy policy must explain how users can opt-out of certain data collection or processing activities.
 
 
 # Tasks related to this story
