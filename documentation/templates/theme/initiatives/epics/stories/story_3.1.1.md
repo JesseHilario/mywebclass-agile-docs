@@ -3,13 +3,13 @@ that my website complies with legal requirements."
 
 Acceptance Criteria:
 
-The website template must be fully responsive and display properly on all devices and screen sizes.
-The privacy policy must accurately reflect the website's data collection and usage practices and comply with applicable laws and regulations.
-The cookie consent banner must be prominently displayed and allow users to opt-out of non-essential cookies.
-The privacy policy and cookie consent banner must be functional and display without errors on all devices and browsers.
-The terms of use and other legal disclaimers on the website must be updated to reflect the new privacy policy and cookie consent banner.
-The updated website template with the privacy policy and cookie consent banner must be published to the live website.
-The privacy policy and cookie consent banner must be reviewed and updated on a regular basis to ensure ongoing compliance with legal requirements.
+* The website template must be fully responsive and display properly on all devices and screen sizes.
+* The privacy policy must accurately reflect the website's data collection and usage practices and comply with applicable laws and regulations.
+* The cookie consent banner must be prominently displayed and allow users to opt-out of non-essential cookies.
+* The privacy policy and cookie consent banner must be functional and display without errors on all devices and browsers.
+* The terms of use and other legal disclaimers on the website must be updated to reflect the new privacy policy and cookie consent banner.
+* The updated website template with the privacy policy and cookie consent banner must be published to the live website.
+* The privacy policy and cookie consent banner must be reviewed and updated on a regular basis to ensure ongoing compliance with legal requirements.
 
 
 # List tasks related to this story

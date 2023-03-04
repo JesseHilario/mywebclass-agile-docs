@@ -2,14 +2,14 @@
 
 Acceptance Criteria:
 
-The task list should be comprehensive, covering all project deliverables and milestones.
-Each task should have a clear description, due date, and priority level.
-The task list should be accessible to all team members.
-The project manager should regularly review and update the task list as needed.
-The task list should be used to track progress and ensure that deadlines are met.
-The project manager should be able to quickly identify tasks that are behind schedule or at risk of being delayed.
-The team should be aware of the task list and understand their responsibilities for completing tasks on time.
-The project should be completed on time and within budget.
+* The task list should be comprehensive, covering all project deliverables and milestones.
+* Each task should have a clear description, due date, and priority level.
+* The task list should be accessible to all team members.
+* The project manager should regularly review and update the task list as needed.
+* The task list should be used to track progress and ensure that deadlines are met.
+* The project manager should be able to quickly identify tasks that are behind schedule or at risk of being delayed.
+* The team should be aware of the task list and understand their responsibilities for completing tasks on time.
+* The project should be completed on time and within budget.
 
 
 # Tasks related to this story

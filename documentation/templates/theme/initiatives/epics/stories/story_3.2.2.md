@@ -3,10 +3,10 @@ follow when using the website."
 
 Acceptance Criteria:
 
-The website must have a clearly visible link to the terms of use agreement on all pages.
-The terms of use agreement must be written in clear and easy-to-understand language.
-The terms of use agreement must describe the rules and guidelines that users must follow when using the website.
-The terms of use agreement must outline the consequences of violating the rules and guidelines.
+* The website must have a clearly visible link to the terms of use agreement on all pages.
+* The terms of use agreement must be written in clear and easy-to-understand language.
+* The terms of use agreement must describe the rules and guidelines that users must follow when using the website.
+* The terms of use agreement must outline the consequences of violating the rules and guidelines.
 
 
 # Tasks related to this story

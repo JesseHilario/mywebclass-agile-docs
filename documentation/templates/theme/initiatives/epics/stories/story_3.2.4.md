@@ -3,10 +3,10 @@ reach out if I have any questions or concerns."
 
 Acceptance Criteria:
 
-The website must meet accessibility guidelines such as WCAG 2.1.
-The website must be usable with assistive technologies such as screen readers and keyboard navigation.
-The website must provide alternative text for images and captions for videos.
-The website must provide a way to adjust text size and color contrast.
+* The website must meet accessibility guidelines such as WCAG 2.1.
+* The website must be usable with assistive technologies such as screen readers and keyboard navigation.
+* The website must provide alternative text for images and captions for videos.
+* The website must provide a way to adjust text size and color contrast.
 
 
 # Tasks related to this story

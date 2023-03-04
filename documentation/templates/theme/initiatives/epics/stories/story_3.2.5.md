@@ -3,13 +3,13 @@ accessibility laws."
 
 Acceptance Criteria:
 
-The website complies with accessibility standards such as WCAG 2.1 Level AA.
-All non-text elements, such as images and videos, have alternative text descriptions.
-The website has proper heading structures, allowing users to easily navigate through the content.
-All interactive elements, such as links and buttons, are easily distinguishable from static content.
-The website can be navigated using a keyboard and screen reader.
-The website provides sufficient color contrast, making it easy for users with visual impairments to read and understand the content.
-The website is free of flashing or blinking elements that can cause seizures or migraines.
+* The website complies with accessibility standards such as WCAG 2.1 Level AA.
+* All non-text elements, such as images and videos, have alternative text descriptions.
+* The website has proper heading structures, allowing users to easily navigate through the content.
+* All interactive elements, such as links and buttons, are easily distinguishable from static content.
+* The website can be navigated using a keyboard and screen reader.
+* The website provides sufficient color contrast, making it easy for users with visual impairments to read and understand the content.
+* The website is free of flashing or blinking elements that can cause seizures or migraines.
 
 
 # Tasks related to this story

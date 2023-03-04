@@ -3,9 +3,9 @@ protected by copyright law."
 
 Acceptance Criteria:
 
-The website must have a clearly visible copyright notice on all pages.
-The copyright notice must contain the copyright symbol, the name of the copyright owner, and the year the content was published.
-The copyright notice must state that the content is protected by copyright law and that unauthorized use is prohibited.
+* The website must have a clearly visible copyright notice on all pages.
+* The copyright notice must contain the copyright symbol, the name of the copyright owner, and the year the content was published.
+* The copyright notice must state that the content is protected by copyright law and that unauthorized use is prohibited.
 
 
 # Tasks related to this story

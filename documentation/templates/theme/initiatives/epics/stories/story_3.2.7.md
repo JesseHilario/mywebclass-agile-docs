@@ -3,12 +3,12 @@ such as consumer protection laws, data protection laws, and advertising laws."
 
 Acceptance Criteria:
 
-The website should have a compliance checklist that covers all applicable laws and regulations.
-The website should implement measures to ensure compliance with consumer protection laws, such as clear and accurate product descriptions, pricing, and refund policies.
-The website should implement measures to ensure compliance with data protection laws, such as obtaining user consent for data collection and storage and protecting user data from unauthorized access.
-The website should implement measures to ensure compliance with advertising laws, such as ensuring all advertising claims are truthful and not misleading.
-Regular audits should be conducted to ensure ongoing compliance with applicable laws and regulations.
-The website should have a dedicated page that provides clear and understandable information on its legal policies and compliance with applicable laws and regulations.
+* The website should have a compliance checklist that covers all applicable laws and regulations.
+* The website should implement measures to ensure compliance with consumer protection laws, such as clear and accurate product descriptions, pricing, and refund policies.
+* The website should implement measures to ensure compliance with data protection laws, such as obtaining user consent for data collection and storage and protecting user data from unauthorized access.
+* The website should implement measures to ensure compliance with advertising laws, such as ensuring all advertising claims are truthful and not misleading.
+* Regular audits should be conducted to ensure ongoing compliance with applicable laws and regulations.
+* The website should have a dedicated page that provides clear and understandable information on its legal policies and compliance with applicable laws and regulations.
 
 
 # Tasks related to this story
