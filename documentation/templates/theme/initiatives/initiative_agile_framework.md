@@ -24,4 +24,4 @@ Team: Project manager, all team members
 
 
 # List epics related to this theme
-1. [Create a Project Management Tool](documentation/templates/theme/initiatives/epics/epic_create_project_management_tool.md)
+1. [Create a Project Management Tool](epics/epic_create_project_management_tool.md)

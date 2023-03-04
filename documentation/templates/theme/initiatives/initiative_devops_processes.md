@@ -23,4 +23,4 @@ Dependencies: [List any dependencies that may impact the initiative]
 Team: Project manager; all team members
 
 # List epics related to this theme
-1. [Epic 1: Create a DevOps Process](documentation/templates/theme/initiatives/epics/epic_create_devops.md)
+1. [Epic 1: Create a DevOps Process](epics/epic_create_devops.md)
