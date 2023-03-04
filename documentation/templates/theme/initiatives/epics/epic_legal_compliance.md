@@ -18,7 +18,7 @@ Priority: high
 
 # Stories related to this epic
 1. [Story 1: As a website user, I want to be able to read a privacy policy that outlines how my personal information 
-is collected, used and protected.](stories/story_3.2.1.md)
+is collected, used and protected.](documentation/templates/theme/initiatives/epics/stories/story_3.2.1.md)
 2. [Story 2: As a website user, I want to be able to read a terms of use agreement that sets out the rules and 
 guidelines I must follow when using the website.](stories/story_3.2.2.md)
 3. [Story 3: As a website user, I want to be able to view a copyright notice that informs me that the website's content 
